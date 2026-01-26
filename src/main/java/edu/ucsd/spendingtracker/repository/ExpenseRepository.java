@@ -18,6 +18,10 @@ public class ExpenseRepository {
         dataSource.addExpense(expense);
     }
 
+    public void deleteExpense(int id){
+        dataSource.deleteExpense(id);
+    }
+
     public List<Expense> getExpenses() {
         return dataSource.getExpenses();
     }
