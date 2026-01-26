@@ -6,7 +6,7 @@ public class Expense {
     private double amount;
     private int id;
 
-    public Expense(String name, Category category, double amount, int id) {
+    public Expense(int id, String name, Category category, double amount) {
         this.name = name;
         this.category = category;
         this.amount = amount;
