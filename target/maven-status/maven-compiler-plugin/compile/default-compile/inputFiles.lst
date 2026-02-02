@@ -13,4 +13,7 @@
 /Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/edu/ucsd/spendingtracker/repository/ExpenseRepository.java
 /Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/edu/ucsd/spendingtracker/view/SpendingView.java
 /Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/edu/ucsd/spendingtracker/view/SummaryView.java
+/Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/edu/ucsd/spendingtracker/view/charts/BarChartProvider.java
+/Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/edu/ucsd/spendingtracker/view/charts/IChartProvider.java
+/Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/edu/ucsd/spendingtracker/view/charts/PieChartProvider.java
 /Users/noegonzalezjr/CSE110/Lab4/Lab4/src/main/java/module-info.java
