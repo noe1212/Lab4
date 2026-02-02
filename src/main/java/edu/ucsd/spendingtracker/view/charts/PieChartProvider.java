@@ -4,11 +4,6 @@ import java.util.Map;
 import edu.ucsd.spendingtracker.model.Category;
 import javafx.collections.FXCollections;
 import javafx.scene.Node;
-import javafx.scene.chart.BarChart;
-import javafx.scene.chart.CategoryAxis;
-import javafx.scene.chart.NumberAxis;
-import javafx.scene.chart.XYChart;
-import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.chart.PieChart;
 
